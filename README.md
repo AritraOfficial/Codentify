@@ -36,7 +36,7 @@ This app allows developers to paste or upload source code, select review focus a
 | Layer          | Tool / Tech                              |
 |----------------|-------------------------------------------|
 | Frontend       | [Streamlit](https://streamlit.io)         |
-| Backend Logic  | Python + REST API                         |
+| Backend Logic  | Python                                    |
 | AI Model       | [Mistral-7B (via OpenRouter)](https://openrouter.ai/models/mistralai/mistral-7b-instruct) |
 | Prompting      | JSON-powered dynamic prompt template      |
 | Styling        | Custom CSS (`style.css`)                  |
@@ -53,10 +53,6 @@ This app allows developers to paste or upload source code, select review focus a
 ├── requirements.txt # Install dependencies
 └── README.md # You're here
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Installation & Run
@@ -69,9 +65,7 @@ cd ai-code-reviewer
 2. Set Up the Environment
 Create .env with your OpenRouter API key:
 
-env
-Copy
-Edit
+
 OPENROUTER_API_KEY=sk-xxxxxx-your-key
 3. Install Dependencies
 bash
