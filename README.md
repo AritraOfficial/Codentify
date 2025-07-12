@@ -1,6 +1,6 @@
 # 🤖 Codentify – AI Code Reviewer
 <p align="center">
-  <a href="https://codentify-airm-official.streamlit.app/" target="_blank">
+  <a href="https://codentify-arim-official.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/-🚀 Live%20Codentify-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=00C853&color=000000" alt="Live Codentify">
   </a>
 </p>
