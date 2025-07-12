@@ -1,8 +1,16 @@
 # 🤖 Codentify – AI Code Reviewer
+<p align="center">
+  <a href="https://codentify-airm-official.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-🚀 Live%20Codentify-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=00C853&color=000000" alt="Live Codentify">
+  </a>
+</p>
 
->> ##  **Codentify** is a smart AI-powered web app that reviews, analyzes, and improves your code using LLMs. A powerful and customizable AI-powered code reviewer web application built using **Python**, **Streamlit**, and **OpenRouter’s free LLMs (like Mistral-7B)**. 
+
+### **Codentify** is a smart AI-powered web app that reviews, analyzes, and improves your code using LLMs. A powerful and customizable AI-powered code reviewer web application built using **Python**, **Streamlit**, and **OpenRouter’s free LLMs (like Mistral-7B)**. 
+
 
 ` This app allows developers to paste or upload source code, select review focus and explanation style, and instantly receive a professional AI-generated review along with corrected code. `
+
 
 
 ## 📸 App View 
