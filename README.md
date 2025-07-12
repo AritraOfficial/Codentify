@@ -16,7 +16,7 @@
 ## 📸 App View 
 | Web View                          | APP's Specification              |
 | --------------------------------- | -------------------------------- | 
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/2d553bd4-bb42-4669-833a-5c7337053146" />|<img width="1913" height="998" alt="image" src="https://github.com/user-attachments/assets/360d965b-1951-4ecf-80a1-965f98b5c31b" />|
+<img width="1899" height="917" alt="image" src="https://github.com/user-attachments/assets/e34737a6-426c-41c9-ba7c-57ba195abd16" />|<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/805cd621-4c3c-46c4-a6cd-be1d86345454" />|
 
 
 ## 🚀 Features
@@ -93,7 +93,7 @@ streamlit run main.py
 
 | Upload File                       | Ask Questions                    | Get Answers                       |
 | --------------------------------- | -------------------------------- | --------------------------------- |
-|<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/d65ea2e6-7315-4ff3-9541-0b824ea9bfe5" />|<img width="1908" height="921" alt="image" src="https://github.com/user-attachments/assets/ef619589-bb28-4ebc-a2c4-3f2b409ff765" />|<img width="1899" height="824" alt="image" src="https://github.com/user-attachments/assets/a01563e7-7b72-4ce4-ab97-a00597ee71d9" />|
+|<img width="1882" height="852" alt="image" src="https://github.com/user-attachments/assets/171868ae-e27d-4cb4-a230-713d4780e7ef" />|<img width="1859" height="796" alt="image" src="https://github.com/user-attachments/assets/bd6e3f2d-c36a-47d6-b85c-ffa6b01d63a6" />|<img width="1845" height="959" alt="image" src="https://github.com/user-attachments/assets/61214e8a-f7a0-4156-b0ed-67674343d764" />|
 ---------------------------
 
 
