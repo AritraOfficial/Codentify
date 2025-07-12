@@ -16,7 +16,7 @@
 ## 📸 App View 
 | Web View                          | APP's Specification              |
 | --------------------------------- | -------------------------------- | 
-<img width="1899" height="917" alt="image" src="https://github.com/user-attachments/assets/e34737a6-426c-41c9-ba7c-57ba195abd16" />|<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/805cd621-4c3c-46c4-a6cd-be1d86345454" />|
+|<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/4bfea970-ab83-4e98-b859-52ab9610f74f" />|<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/805cd621-4c3c-46c4-a6cd-be1d86345454" />|
 
 
 ## 🚀 Features
@@ -93,7 +93,16 @@ streamlit run main.py
 
 | Upload File                       | Ask Questions                    | Get Answers                       |
 | --------------------------------- | -------------------------------- | --------------------------------- |
-|<img width="1882" height="852" alt="image" src="https://github.com/user-attachments/assets/171868ae-e27d-4cb4-a230-713d4780e7ef" />|<img width="1859" height="796" alt="image" src="https://github.com/user-attachments/assets/bd6e3f2d-c36a-47d6-b85c-ffa6b01d63a6" />|<img width="1845" height="959" alt="image" src="https://github.com/user-attachments/assets/61214e8a-f7a0-4156-b0ed-67674343d764" />|
+|<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/2c2ccd4a-b888-47b2-ab34-58b9163a564a" />|<img width="1859" height="796" alt="image" src="https://github.com/user-attachments/assets/bd6e3f2d-c36a-47d6-b85c-ffa6b01d63a6" />|<img width="1845" height="959" alt="image" src="https://github.com/user-attachments/assets/61214e8a-f7a0-4156-b0ed-67674343d764" />|
+---------------------------
+
+---------------------------
+## 📸 Mobile's View
+
+| APP View                          | Footer View                      |  APP's Specification              |
+| --------------------------------- | -------------------------------- | --------------------------------- |
+|![WhatsApp Image 2025-07-12 at 21 05 11_a16e5912](https://github.com/user-attachments/assets/35cbabeb-26a2-4ff3-a4d9-b79732e0fd4a)|![WhatsApp Image 2025-07-12 at 21 05 11_e683c623](https://github.com/user-attachments/assets/03f2bac2-b075-4e12-a660-c11e9000b484)|![WhatsApp Image 2025-07-12 at 21 09 09_d9438cd8](https://github.com/user-attachments/assets/33f8a63e-f45a-4190-829a-5c6f83177648)|
+
 ---------------------------
 
 
