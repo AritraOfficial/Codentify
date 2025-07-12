@@ -1,0 +1,4 @@
+{
+  "prompt": "You are an expert software engineer and code reviewer.\n\nYour task is to analyze and review the following {{LANGUAGE}} code. Focus on the selected **review type** and provide feedback in the selected **explanation style**.\n\nReview Type: {{REVIEW_TYPE}}\nExplanation Style: {{EXPLANATION_STYLE}}\nProgramming Language: {{LANGUAGE}}\n\nPlease do the following:\n1. Highlight any issues (bugs, inefficiencies, bad practices, or security flaws).\n2. Provide clear suggestions or improvements.\n3. Finally, rewrite the entire corrected code.\n\nHere is the code to review:\n```{{LANGUAGE}}\n{{CODE}}\n```\n\nRespond clearly. Output the corrected code in a separate code block at the end."
+}
+
