@@ -1,12 +1,15 @@
 # 🤖 Codentify – AI Code Reviewer
 
-**Codentify** is a smart AI-powered web app that reviews, analyzes, and improves your code using LLMs like Mistral-7B via OpenRouter...
+>> ##  **Codentify** is a smart AI-powered web app that reviews, analyzes, and improves your code using LLMs. A powerful and customizable AI-powered code reviewer web application built using **Python**, **Streamlit**, and **OpenRouter’s free LLMs (like Mistral-7B)**. 
 
-A powerful and customizable AI-powered code reviewer web application built using **Python**, **Streamlit**, and **OpenRouter’s free LLMs (like Mistral-7B)**.
+` This app allows developers to paste or upload source code, select review focus and explanation style, and instantly receive a professional AI-generated review along with corrected code. `
 
-This app allows developers to paste or upload source code, select review focus and explanation style, and instantly receive a professional AI-generated review along with corrected code.
 
----
+## 📸 App View 
+| Web View                          | APP's Specification              |
+| --------------------------------- | -------------------------------- | 
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/2d553bd4-bb42-4669-833a-5c7337053146" />|<img width="1913" height="998" alt="image" src="https://github.com/user-attachments/assets/360d965b-1951-4ecf-80a1-965f98b5c31b" />|
+
 
 ## 🚀 Features
 
@@ -45,14 +48,14 @@ This app allows developers to paste or upload source code, select review focus a
 ---
 
 ## 📂 File Structure
-
+```
 ├── main.py # Main Streamlit app
 ├── prompt_template.json # Dynamic LLM prompt template
 ├── style.css # Custom styles and footer
 ├── .env # OpenRouter API key (NOT shared)
 ├── requirements.txt # Install dependencies
 └── README.md # You're here
-
+```
 ---
 
 ## ⚙️ Installation & Run
@@ -60,58 +63,60 @@ This app allows developers to paste or upload source code, select review focus a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-code-reviewer.git
-cd ai-code-reviewer
+git clone https://github.com/AritraOfficial/Codentify.git
+cd Codentify
+```
 2. Set Up the Environment
-Create .env with your OpenRouter API key:
+- Create .env with your OpenRouter API key:
+```
+OPENROUTER_API_KEY= sk-xxxxxx-your-key
+```
 
-
-OPENROUTER_API_KEY=sk-xxxxxx-your-key
 3. Install Dependencies
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 4. Launch the App
-bash
-Copy
-Edit
+```bash
 streamlit run main.py
-📸 Screenshots
-Coming soon — UI previews, before/after review comparison.
+```
+---------------------------
+## 📸 Computer's View
 
-🔐 Free LLMs Used
-This app uses Mistral-7B Instruct from OpenRouter, a fast and free-to-use model for code understanding and natural language generation.
+| Upload File                       | Ask Questions                    | Get Answers                       |
+| --------------------------------- | -------------------------------- | --------------------------------- |
+|<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/d65ea2e6-7315-4ff3-9541-0b824ea9bfe5" />|<img width="1908" height="921" alt="image" src="https://github.com/user-attachments/assets/ef619589-bb28-4ebc-a2c4-3f2b409ff765" />|<img width="1899" height="824" alt="image" src="https://github.com/user-attachments/assets/a01563e7-7b72-4ce4-ab97-a00597ee71d9" />|
+---------------------------
 
+
+- 🔐 Free LLMs Used
+```
+ This app uses Mistral-7B Instruct from OpenRouter, a fast and free-to-use model for code understanding and natural language generation.
 You can switch to other free OpenRouter models by changing the model name in main.py.
+```
+## 🧠 How It Works
 
-🧠 How It Works
-User selects:
+1. User selects:
+   - ✅ **Language preference**
+   - 🔍 **Type of review**
+   - 🧠 **Style of explanation**
 
-Language preference
+2. User pastes or uploads code
 
-Type of review
+3. Code is validated against the selected language
 
-Style of explanation
+4. A dynamic prompt is constructed using all selections
 
-User pastes or uploads code
+5. The LLM returns:
+   - ⚠️ **Problem analysis**
+   - 💡 **Suggestions for improvement**
+   - 🛠️ **Corrected version of the code**
 
-Code is validated against language choice
+---
 
-A dynamic prompt is constructed
+## ✨ Example Output
 
-LLM returns:
-
-Problem analysis
-
-Suggestions
-
-Corrected version of code
-
-✨ Example Output
-python
-Copy
-Edit
+```python
 🔹 Issues Found:
 - Missing error handling
 - Unused variable
@@ -127,21 +132,12 @@ def process(data):
         return data.lower()
     except Exception:
         return None
-yaml
-Copy
-Edit
+```
 
 ---
 
 ## 👤 Developer
-
-**Aritra Mukherjee**  
-📧 [aritra.work.official@gmail.com](mailto:aritra.work.official@gmail.com)
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aritramukherjeeofficial/)
-- 💻 [GitHub](https://github.com/AritraOfficial)
-- 🌐 [Portfolio](https://arim-official.netlify.app/)
-- 📸 [Instagram](https://www.instagram.com/arim.official/)
+**[Aritra Mukherjee](https://arim-official.netlify.app/)**  - ` AI Developer `
 
 ---
 
@@ -180,9 +176,12 @@ This tool is powered by LLMs and should not be used for production-critical code
 ## 📧 Contact 
 For queries or collaborations, feel free to connect:  
 <p align="center">
+  <a href="https://arim-official.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Website">
+  </a>
   <a href="https://www.linkedin.com/in/aritramukherjeeofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a> 
   <a href="https://x.com/AritraMofficial" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
